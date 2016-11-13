@@ -1,6 +1,10 @@
 # PokeBOT
 Pokemon Go Bot in C# based on PokemonGo-Bot
 
+Status API:
+-------------
+API bot now work (but sometimes error).
+
 Features
 -------------
  - Auto Farming Pokestops/Pokemon.
