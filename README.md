@@ -4,6 +4,7 @@ Pokemon Go Bot in C# based on PokemonGo-Bot
 Status API:
 -------------
 API bot now work (but sometimes error).
+0.45.0 for Android and 1.15.0 for iOS
 
 Features
 -------------
