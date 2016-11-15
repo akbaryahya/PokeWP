@@ -50,7 +50,8 @@ How to FAST BOT?
  - Set Speed 38 - 7 km with random speed
  - Select location that many pokestop
  - Select all evolve pokemon
- >  Note: do do it if you fear you will be banned (but I tried until now have not got banned *maybe I was lucky xD)
+ 
+>  Note: do do it if you fear you will be banned (but I tried until now have not got banned *maybe I was lucky xD)
 
 Credits to:
 -------------------
