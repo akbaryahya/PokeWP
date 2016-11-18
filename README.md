@@ -1,4 +1,4 @@
-# PokeBOT (4.4)
+# PokeBOT (4.5)
 Pokemon Go Bot in C# based on PokemonGo-Bot
 
 Status API:
@@ -9,10 +9,10 @@ API bot now work (but sometimes error).
 Features
 -------------
  - Auto Farming Pokestops/Pokemon.
- - Transfer/Evolve Pokemons with auto stop and dont transfer favorit.
+ - Auto transfer/evolve Pokemons with auto stop and dont transfer favorit.
  - Simple GUI
  - Incubate Eggs
- - Pokemon Gui with stats.
+ - Pokemon GUI with stats.
  - Livemap with Pokestop/gym/pokemon information on it. (by you and DBPoke)
  - Navigation Logic
  - Random Throws (Curved, nice..)
@@ -20,12 +20,17 @@ Features
  - Security
  - Google Routing
  - PowerUp/Evolve/Rename/Favorit Pokemons in the GUI
- - Manage Items
+ - Manage Items/Pokemon
+ - Manage Eggs (soon)
  - Expor data list pokemon
  - Snipe+
  - Teleport Pokestop
- - Edit Devices info and support ios
- - and much more!
+ - Edit devices info and support ios
+ - Change team and show info gym pokemon on map
+ - JSON save config (soon)
+ - Multi account random (soon)
+ - Set min iv/cp catch pokemon
+ - And much more...
 
 Note:
 -------------------
@@ -34,6 +39,11 @@ If you have troubles (exceptions) when starting and/or you come from an older ve
  - GO download last build, https://github.com/akbaryahya/PokeBOT/blob/master/build/
  - Download and unzip in new folder
  - Try to execute (PokeBOT.exe) now.
+
+Required:
+-------------------
+ - Required NET 4.5+
+ - Windows XP does not work, but I will later create different version without gui (linux)
 
 How to use Tor Network?
 -------------------
