@@ -1,10 +1,10 @@
-# PokeBOT (4.5)
+# PokeBOT (4.6) (DEV)
 Pokemon Go Bot in C# based on PokemonGo-Bot
 
 Status API:
 -------------
 API bot now work (but sometimes error).
-> 0.45.0 for Android and 1.15.0 for iOS
+> API BOT: 0.45.0 ~ API POGO: 0.47.0 (NOT SAFE)
 
 Features
 -------------
@@ -52,7 +52,15 @@ How to use Tor Network?
  - Try to execute (PokeBOT.exe).
  - Press "RUN TOR".
 
-How to FAST BOT?
+ How solve captcha?
+-------------------
+ - Note: The easiest way to use phone (login in game) or use 2captcha but not yet available
+ - Download http://tampermonkey.net/
+ - Instal https://greasyfork.org/en/scripts/25036-captcha-pokemon-go
+ - Run BOT.
+ - If you get warning enter key captcha, do solve and copy/paste key (the response code is below)
+
+How to FAST BOT? (NOT SAFE)
 -------------------
  - Disable Safe Banned
  - Disable GUI
@@ -60,8 +68,6 @@ How to FAST BOT?
  - Set Speed 38 - 7 km with random speed
  - Select location that many pokestop
  - Select all evolve pokemon
- 
->  Note: do do it if you fear you will be banned (but I tried until now have not got banned *maybe I was lucky xD)
 
 Credits to:
 -------------------
