@@ -3,7 +3,7 @@ Pokemon Go Bot in C# based on PokemonGo-Bot
 
 Status API:
 -------------
-API bot now work (but sometimes error).
+API bot work!
 > API BOT: 0.45.0 ~ API POGO: 0.47.0 (NOT SAFE)
 
 Features
@@ -51,8 +51,8 @@ How to use Tor Network?
  - Download and unzip in folder bot
  - Try to execute (PokeBOT.exe).
  - Press "RUN TOR".
-
- How solve captcha?
+ 
+How solve captcha?
 -------------------
  - Note: The easiest way to use phone (login in game) or use 2captcha but not yet available
  - Download http://tampermonkey.net/
@@ -73,7 +73,7 @@ Credits to:
 -------------------
  - Ar1i (Base Bot)
  - FeroxRev,Necrobot,HackePokeBot-Go (API C#)
- - AeonLucid (POGOProtos)
+ - AeonLucid (POGOLib)
  - Siakbary (DBPoke,Logic)
  - MTK4355,Xelwon (Additional features on base bot)
  - IgnaceMaes (Skin C#)
