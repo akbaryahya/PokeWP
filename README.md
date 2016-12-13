@@ -1,10 +1,10 @@
-# PokeBOT (4.6) (DEV)
+# PokeBOT (4.7) (DEV)
 Pokemon Go Bot in C# based on PokemonGo-Bot
 
 Status API:
 -------------
 API bot work!
-> API BOT: 0.45.0 ~ API POGO: 0.47.0 (NOT SAFE)
+> API BOT: 0.45.0 ~ API POGO: 0.49.0 (NOT SAFE)
 
 Features
 -------------
