@@ -1,13 +1,14 @@
-# PokeBOT (4.7) (DEV)
+# PokeBOT (4.8) (DEV)
 Pokemon Go Bot in C# based on PokemonGo-Bot
 
 Status API:
 -------------
 API bot work!
-> API BOT: 0.45.0 ~ API POGO: 0.49.0 (NOT SAFE)
+> API BOT: 0.45.0 ~ API POGO: 0.51.0 (NOT SAFE)
 
 Features
 -------------
+ - Solve Captcha Manual (auto by 2captcha soon)
  - Auto Farming Pokestops/Pokemon.
  - Auto transfer/evolve Pokemons with auto stop and dont transfer favorit.
  - Simple GUI
@@ -72,8 +73,9 @@ How to FAST BOT? (NOT SAFE)
 Credits to:
 -------------------
  - Ar1i (Base Bot)
- - FeroxRev,Necrobot,HackePokeBot-Go (API C#)
+ - FeroxRev,Necrobot,Furtif (API C#)
  - AeonLucid (POGOLib)
  - Siakbary (DBPoke,Logic)
  - MTK4355,Xelwon (Additional features on base bot)
  - IgnaceMaes (Skin C#)
+ - MrNinja and Pokehunt (ideas solve captcha)
