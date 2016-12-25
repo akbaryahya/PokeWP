@@ -1,4 +1,4 @@
-# PokeBOT (4.8) (DEV)
+# PokeBOT (4.9) (DEV)
 Pokemon Go Bot in C# based on PokemonGo-Bot
 
 Status API:
@@ -8,19 +8,19 @@ API bot work!
 
 Features
 -------------
- - Solve Captcha Manual (auto by 2captcha soon)
+ - Solve Captcha Manual or Auto by 2captcha
  - Auto Farming Pokestops/Pokemon.
  - Auto transfer/evolve Pokemons with auto stop and dont transfer favorit.
  - Simple GUI
  - Incubate Eggs
  - Pokemon GUI with stats.
- - Livemap with Pokestop/gym/pokemon information on it. (by you and DBPoke)
+ - Livemap with Pokestop/gym/pokemon information on it. (DBPoke)
  - Navigation Logic
  - Random Throws (Curved, nice..)
- - Real Animation waiting time (slow bot :p)
+ - Real Animation waiting time
  - Security
  - Google Routing
- - PowerUp/Evolve/Rename/Favorit Pokemons in the GUI
+ - PowerUp/Evolve/Rename/Favorit/Buddy Pokemons in GUI (support multi select)
  - Manage Items/Pokemon
  - Manage Eggs (soon)
  - Expor data list pokemon
@@ -30,6 +30,7 @@ Features
  - Change team and show info gym pokemon on map
  - JSON save config (soon)
  - Multi account random (soon)
+ - Support API 51.0 by paid api
  - Set min iv/cp catch pokemon
  - And much more...
 
