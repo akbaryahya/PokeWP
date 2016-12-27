@@ -1,6 +1,10 @@
 # PokeBOT (1.0.5.0)
 Pokemon Go Bot in C# based on PokemonGo-Bot
 
+<p align="center">
+  <img src="https://i.imgur.com/lLdRQOd.png" alt="POKEBOT"/>
+</p>
+
 Status API:
 -------------
 API bot work!
