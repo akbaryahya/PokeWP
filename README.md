@@ -38,14 +38,15 @@ How to start?
 -------------------
 If you have troubles (exceptions) when starting and/or you come from older version try that:
  - Create new empty folder.
- - GO download last build, https://github.com/akbaryahya/PokeBOT/releases
+ - GO download last Releases, https://github.com/akbaryahya/PokeBOT/releases
  - Download and unzip in new folder
  - Try to execute (PokeBOT.exe) now.
 
 Required:
 -------------------
- - Required NET 4.5+
- - Windows XP does not work, but I will later create different version without gui (linux)
+ - NET 4.5+
+ - Windows 7 SP2 UP
+ - DirectX Last
 
 Credits to:
 -------------------
