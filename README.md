@@ -1,36 +1,33 @@
-# PokeBOT (4.9) (DEV)
+# PokeBOT (1.0.5.0)
 Pokemon Go Bot in C# based on PokemonGo-Bot
 
 Status API:
 -------------
 API bot work!
-> API BOT: 0.45.0 ~ API POGO: 0.51.0 (NOT SAFE)
+> API BOT: MULTI ~ API POGO: 0.51.0
 
 Features
 -------------
- - Solve Captcha Manual or Auto by 2captcha
+ - Simple GUI with stats
+ - Solve Captcha Manual or Auto by 2captcha *Pay API
+ - Support API 0.45.0 (free) / 0.51.0 (pay)
  - Auto Farming Pokestops/Pokemon.
- - Auto transfer/evolve Pokemons with auto stop and dont transfer favorit.
- - Simple GUI
+ - Auto transfer/evolve/rename Pokemons with auto stop and dont transfer favorit. 
+ - PowerUp/Evolve/Rename/Favorit/Buddy/Team Pokemons in GUI (support multi select)
  - Incubate Eggs
- - Pokemon GUI with stats.
- - Livemap with Pokestop/gym/pokemon information on it. (DBPoke)
+ - Livemap/scanner with Pokestop/gym/pokemon information on it. (DBPoke)
  - Navigation Logic
  - Random Throws (Curved, nice..)
  - Real Animation waiting time
  - Security
  - Google Routing
- - PowerUp/Evolve/Rename/Favorit/Buddy Pokemons in GUI (support multi select)
  - Manage Items/Pokemon
  - Manage Eggs (soon)
  - Expor data list pokemon
- - Snipe+
- - Teleport Pokestop
- - Edit devices info and support ios
- - Change team and show info gym pokemon on map
+ - Teleport Pokestop/new locate/pokemon (snipe+)
+ - Edit devices info (ios/android)
  - JSON save config (soon)
  - Multi account random (soon)
- - Support API 0.51.0 by paid api (soon)
  - Set min iv/cp catch pokemon
  - And much more...
 
@@ -51,9 +48,8 @@ Required:
 Credits to:
 -------------------
  - Ar1i (Base Bot)
- - FeroxRev,Necrobot,Furtif (API C#)
- - AeonLucid (POGOLib)
+ - Furtif,samuraitruong,AeonLucid,PokeFarmer (API C#)
  - Siakbary (DBPoke,Logic)
  - MTK4355,Xelwon (Additional features on base bot)
  - IgnaceMaes (Skin C#)
- - MrNinja and Pokehunt (ideas solve captcha)
+ - MrNinja,Pokehunt (ideas solve captcha)
