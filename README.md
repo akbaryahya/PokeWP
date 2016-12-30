@@ -1,4 +1,4 @@
-# PokeBOT (1.0.5.0)
+# PokeBOT (1.0.5.1)
 Pokemon Go Bot in C# based on PokemonGo-Bot
 
 <p align="center">
@@ -8,17 +8,16 @@ Pokemon Go Bot in C# based on PokemonGo-Bot
 Status API:
 -------------
 API bot work!
-> API BOT: MULTI ~ API POGO: 0.51.0
+> API BOT: MULTI ~ API POGO: 0.51.2
 
 Features
 -------------
  - Simple GUI with stats
  - Solve Captcha Manual or Auto by 2captcha *Pay API
- - Support API 0.45.0 (free) / 0.51.0 (pay)
- - Auto Farming Pokestops/Pokemon.
- - Auto transfer/evolve/rename Pokemons with auto stop and dont transfer favorit. 
+ - Support API 0.45.0 (free) / 0.51.2 (pay)
+ - Auto Farming Pokestops/Pokemon/Incubate Eggs/Evolve/Rename.
+ - Auto transfer with auto stop and dont transfer favorit. 
  - PowerUp/Evolve/Rename/Favorit/Buddy/Team Pokemons in GUI (support multi select)
- - Incubate Eggs
  - Livemap/scanner with Pokestop/gym/pokemon information on it. (DBPoke)
  - Navigation Logic
  - Random Throws (Curved, nice..)
