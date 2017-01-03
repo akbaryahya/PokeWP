@@ -1,4 +1,4 @@
-# PokeBOT (1.0.5.2)
+# PokeBOT (1.0.5.3)
 Pokemon Go Bot in C# based on PokemonGo-Bot
 
 <p align="center">
@@ -33,6 +33,7 @@ Features
  - JSON save config (soon)
  - Multi account random (soon)
  - Set min iv/cp catch pokemon
+ - Archimedean Spiral
  - And much more...
 
 How to start?
