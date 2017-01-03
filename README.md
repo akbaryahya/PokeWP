@@ -1,4 +1,4 @@
-# PokeBOT (1.0.5.1)
+# PokeBOT (1.0.5.2)
 Pokemon Go Bot in C# based on PokemonGo-Bot
 
 <p align="center">
@@ -14,7 +14,7 @@ Features
 -------------
  - Simple GUI with stats
  - Solve Captcha Manual or Auto by 2captcha *Pay API
- - Support API 0.45.0 (free) / 0.51.2 (pay)
+ - Support API 0.45.0 (free) / 0.51.2 (Pay *Cek Wiki)
  - Auto Farming Pokestops/Pokemon/Incubate Eggs/Evolve/Rename.
  - Auto transfer with auto stop and dont transfer favorit. 
  - PowerUp/Evolve/Rename/Favorit/Buddy/Team Pokemons in GUI (support multi select)
@@ -26,6 +26,7 @@ Features
  - Google Routing
  - Manage Items/Pokemon
  - Manage Eggs (soon)
+ - Batch Snipe (soon)
  - Expor data list pokemon
  - Teleport Pokestop/new locate/pokemon (snipe+)
  - Edit devices info (ios/android)
@@ -36,11 +37,7 @@ Features
 
 How to start?
 -------------------
-If you have troubles (exceptions) when starting and/or you come from older version try that:
- - Create new empty folder.
- - GO download last Releases, https://github.com/akbaryahya/PokeBOT/releases
- - Download and unzip in new folder
- - Try to execute (PokeBOT.exe) now.
+Make sure you check out our [Wiki](https://github.com/akbaryahya/PokeBOT/wiki) to get started.
 
 Required:
 -------------------
