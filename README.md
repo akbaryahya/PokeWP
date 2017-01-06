@@ -1,9 +1,9 @@
-# PokeBOT <img src="https://img.shields.io/github/release/akbaryahya/PokeBot.svg"/>
+# PokeBOT <a href="https://github.com/akbaryahya/PokeBot/releases/latest"><img src="https://img.shields.io/github/release/akbaryahya/PokeBot.svg"/></a>
 
 <p align="center">
   Pokemon Go Bot in C# based on PokemonGo-Bot
   <img src="https://i.imgur.com/lLdRQOd.png" alt="POKEBOT"/>
-  <img src="https://img.shields.io/github/downloads/akbaryahya/PokeBot/total.svg"/> <a href="https://github.com/akbaryahya/PokeBot/releases/latest"><img src="https://img.shields.io/github/downloads/akbaryahya/PokeBot/latest/total.svg"/></a> <img src="https://img.shields.io/github/issues/akbaryahya/PokeBot.svg"/> <img src="https://img.shields.io/github/issues-closed-raw/akbaryahya/PokeBot.svg"/>
+  <a href="https://github.com/akbaryahya/PokeBot/releases/latest"><img src="https://img.shields.io/github/downloads/akbaryahya/PokeBot/total.svg"/> <img src="https://img.shields.io/github/downloads/akbaryahya/PokeBot/latest/total.svg"/></a> <a href="https://github.com/akbaryahya/PokeBot/issues"><img src="https://img.shields.io/github/issues/akbaryahya/PokeBot.svg"/> <img src="https://img.shields.io/github/issues-closed-raw/akbaryahya/PokeBot.svg"/></a>
 </p>
 
 Status API:
