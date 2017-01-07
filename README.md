@@ -21,25 +21,24 @@ Community:
 
 Features
 -------------
+- Security
  - Simple GUI with stats
  - Solve Captcha Manual or Auto by 2captcha *Pay API
  - Support API 0.45.0 (free) / 0.51.2 (Pay *Cek Wiki)
+ - Gym Attack
  - Auto Farming Pokestops/Pokemon/Incubate Eggs/Evolve/Rename.
- - Auto transfer with auto stop and dont transfer favorit. 
+ - Auto transfer with auto stop and dont transfer favorit pokemon. 
  - PowerUp/Evolve/Rename/Favorit/Buddy/Team Pokemons in GUI (support multi select)
  - Livemap/scanner with Pokestop/gym/pokemon information on it. (DBPoke)
  - Navigation Logic
  - Random Throws (Curved, nice..)
  - Real Animation waiting time
- - Security
  - Google Routing
- - Bot Telegram
- - Bot Twitter (soon)
- - Manage Items/Pokemon
- - Manage Eggs (soon)
+ - Bot Telegram,Twitter
+ - Manage Items/Pokemon/Eggs
  - Batch Snipe (soon)
  - Expor data list pokemon
- - Teleport Pokestop/new locate/pokemon (snipe+)
+ - Teleport Pokestop/new locate/pokemon (Snipe)
  - Edit devices info (ios/android)
  - JSON save config (soon)
  - Multi account random (soon)
