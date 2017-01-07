@@ -21,7 +21,7 @@ Community:
 
 Features
 -------------
-- Security
+ - Security
  - Simple GUI with stats
  - Solve Captcha Manual or Auto by 2captcha *Pay API
  - Support API 0.45.0 (free) / 0.51.2 (Pay *Cek Wiki)
