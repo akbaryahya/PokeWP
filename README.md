@@ -3,7 +3,7 @@
 <p align="center">
   Pokemon Go Bot in C# based on PokemonGo-Bot
   <img src="https://i.imgur.com/dNm4fqb.jpg" alt="POKEBOT"/>
-  <a href="https://github.com/akbaryahya/PokeBot/releases/latest"><img src="https://img.shields.io/github/downloads/akbaryahya/PokeBot/total.svg"/> <img src="https://img.shields.io/github/downloads/akbaryahya/PokeBot/latest/total.svg"/></a> <a href="https://github.com/akbaryahya/PokeBot/issues"><img src="https://img.shields.io/github/issues/akbaryahya/PokeBot.svg"/> <img src="https://img.shields.io/github/issues-closed-raw/akbaryahya/PokeBot.svg"/></a>
+  <a href="https://github.com/akbaryahya/PokeBot/releases/latest">Total: <img src="https://img.shields.io/github/downloads/akbaryahya/PokeBot/total.svg"/> Last: <img src="https://img.shields.io/github/downloads/akbaryahya/PokeBot/latest/total.svg"/></a> <a href="https://github.com/akbaryahya/PokeBot/issues"><img src="https://img.shields.io/github/issues/akbaryahya/PokeBot.svg"/> <img src="https://img.shields.io/github/issues-closed-raw/akbaryahya/PokeBot.svg"/></a>
 </p>
 
 Status API:
@@ -13,7 +13,7 @@ API bot work!
 
 How to start?
 -------------------
-Make sure you check out our [Wiki](https://github.com/akbaryahya/PokeBOT/wiki) to get started.
+[Please click here to read our Wiki](https://github.com/akbaryahya/PokeBOT/wiki)
 
 Community:
 -------------------
@@ -23,22 +23,25 @@ Features
 -------------
  - Security
  - Simple GUI with stats
- - Solve Captcha Manual or Auto by 2captcha *Pay API
- - Support API 0.45.0 (free) / 0.51.2 (Pay *Cek Wiki)
+ - Solve Captcha Manual / Auto by (2Captcha *Pay API)
+ - Support API 0.45.0 (free) / 0.51.2 (Pay API)
  - Gym Attack
- - Auto Farming Pokestops/Pokemon/Incubate Eggs/Evolve/Rename.
- - Auto transfer with auto stop and dont transfer favorit pokemon. 
+ - Auto Farming Pokestops/Pokemon
+ - Auto Evolve/Rename/Transfer (with dont transfer favorit pokemon)
+ - Incubate Eggs
  - PowerUp/Evolve/Rename/Favorit/Buddy/Team Pokemons in GUI (support multi select)
- - Livemap/scanner with Pokestop/gym/pokemon information on it. (DBPoke)
- - Navigation Logic
+ - Livemap/Scanner with Pokestop/GYM/Pokemon information on it.
+ - API MAP Third party (DBPoke https://map.siakbary.my.id/)
+ - Navigation Logic Unique
  - Random Throws (Curved, nice..)
- - Real Animation waiting time
+ - Real Animation waiting time..
  - Google Routing
- - Bot Telegram,Twitter
+ - Bot Telegram
+ - Bot Twitter Example: https://twitter.com/PokeLocatez
  - Manage Items/Pokemon/Eggs
  - Batch Snipe (soon)
  - Expor data list pokemon
- - Teleport Pokestop/new locate/pokemon (Snipe)
+ - Teleport Pokestop/New Locate/Pokemon (Snipe)
  - Edit devices info (ios/android)
  - JSON save config (soon)
  - Multi account random (soon)
