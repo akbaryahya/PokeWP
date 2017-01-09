@@ -67,3 +67,4 @@ Credits to:
  - MTK4355,Xelwon (Additional features on base bot)
  - IgnaceMaes (Skin C#)
  - MrNinja,Pokehunt (ideas solve captcha)
+ 
