@@ -26,7 +26,7 @@ Features
  - Solve Captcha Manual / Auto by (2Captcha *Pay API)
  - Support API 0.45.0 (free) / 0.51.2 (Pay API)
  - Gym Attack
- - Auto Farming Pokestops/Pokemon
+ - Auto Farming Pokestops/Pokemon/Gym
  - Auto Evolve/Rename/Transfer (with dont transfer favorit pokemon)
  - Incubate Eggs
  - PowerUp/Evolve/Rename/Favorit/Buddy/Team Pokemons in GUI (support multi select)
@@ -37,9 +37,9 @@ Features
  - Real Animation waiting time..
  - Google Routing
  - Bot Telegram
- - Bot Twitter Example: https://twitter.com/PokeLocatez
+ - Bot Twitter (Example: https://twitter.com/PokeLocatez)
  - Manage Items/Pokemon/Eggs
- - Batch Snipe (soon)
+ - Batch Snipe
  - Expor data list pokemon
  - Teleport Pokestop/New Locate/Pokemon (Snipe)
  - Edit devices info (ios/android)
