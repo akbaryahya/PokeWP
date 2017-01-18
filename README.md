@@ -8,8 +8,9 @@
 
 Status API:
 -------------
-API bot work!
-> API BOT: MULTI ~ API POGO: 0.51.2
+API bot work! (safe)
+- API POGO: 0.51.0
+- POGO APP: 0.53.1
 
 How to start?
 -------------------
@@ -23,7 +24,7 @@ Features
 -------------
  - Security
  - Simple GUI with stats
- - Solve Captcha Manual / Auto by (2Captcha *Pay API)
+ - Solve Captcha Manual / Auto by 2Captcha (Pay API)
  - Support API 0.45.0 (free) / 0.51.2 (Pay API)
  - Gym Attack
  - Auto Farming Pokestops/Pokemon/Gym
@@ -31,7 +32,7 @@ Features
  - Incubate Eggs
  - PowerUp/Evolve/Rename/Favorit/Buddy/Team Pokemons in GUI (support multi select)
  - Livemap/Scanner with Pokestop/GYM/Pokemon information on it.
- - API MAP Third party (DBPoke https://map.siakbary.my.id/)
+ - API MAP Third Party (DBPoke https://map.siakbary.my.id/)
  - Navigation Logic Unique
  - Random Throws (Curved, nice..)
  - Real Animation waiting time..
@@ -51,9 +52,9 @@ Features
 
 Required:
 -------------------
- - NET 4.5+
- - Windows 7 SP2 UP
- - DirectX Last
+ - NET 4.5.2+
+ - Windows 7+
+ - DirectX 11 (I do not know why need this)
  
 Rights / Legal:
 -------------------
@@ -67,4 +68,3 @@ Credits to:
  - MTK4355,Xelwon (Additional features on base bot)
  - IgnaceMaes (Skin C#)
  - MrNinja,Pokehunt (ideas solve captcha)
- 
