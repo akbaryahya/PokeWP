@@ -11,6 +11,7 @@ Status API:
 API bot work! (safe)
 - API POGO: 0.53.0
 - POGO APP: 0.55.0
+- Note: This bot will not update every 3 days, currently I'm busy
 
 How to start?
 -------------------
@@ -39,6 +40,7 @@ Features
  - Google Routing
  - Bot Telegram
  - Bot Twitter (Example: https://twitter.com/PokeLocatez)
+ - Bot Discord (soon)
  - Manage Items/Pokemon/Eggs
  - Batch Snipe
  - Expor data list pokemon
@@ -48,6 +50,7 @@ Features
  - Multi account random (soon)
  - Set min iv/cp catch pokemon
  - Archimedean Spiral
+ - Random Free Proxy IP
  - And much more...
 
 Required:
