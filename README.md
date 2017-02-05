@@ -11,7 +11,6 @@ Status API:
 API bot work! (safe)
 - API POGO: 0.53.0
 - POGO APP: 0.55.0
-- Note: This bot will not update every 3 days, currently I'm busy
 
 How to start?
 -------------------
@@ -26,9 +25,9 @@ Features
  - Security
  - Simple GUI with stats
  - Solve Captcha Manual / Auto by 2Captcha (Pay API)
- - Support API 0.45.0 (free) / 0.53.0 (Pay API)
- - Gym Attack
- - Auto Farming Pokestops/Pokemon/Gym
+ - Support API 0.45.0 (free) / 0.55.0 (Pay API)
+ - Gym Attack or just Farming
+ - Auto Farming Pokestops/Pokemon
  - Auto Evolve/Rename/Transfer (with dont transfer favorit pokemon)
  - Incubate Eggs
  - PowerUp/Evolve/Rename/Favorit/Buddy/Team Pokemons in GUI (support multi select)
@@ -48,7 +47,7 @@ Features
  - Edit devices info (ios/android)
  - JSON save config (soon)
  - Multi account random (soon)
- - Set min iv/cp catch pokemon
+ - Set min iv/cp/lv catch pokemon
  - Archimedean Spiral
  - Random Free Proxy IP
  - And much more...
