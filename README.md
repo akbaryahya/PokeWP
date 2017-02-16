@@ -8,9 +8,11 @@
 
 Status API:
 -------------
-API bot work! (safe)
+API bot work! (unstable)
 - API POGO: 0.55.0
 - POGO APP: 0.57.2
+
+Note: PlayerUpdate not work anymore, so snipe and spin pokestop not work, we will try to figure out how to make it work again
 
 How to start?
 -------------------
