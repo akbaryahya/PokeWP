@@ -2,17 +2,17 @@
 
 <p align="center">
   Pokemon Go Bot PC based on PokemonGo-Bot
-  <img src="https://i.imgur.com/biN8A0B.jpg" alt="POKEBOT"/>
+  <img src="https://i.imgur.com/J3jPiah.jpg" alt="POKEBOT"/>
   <a href="https://github.com/akbaryahya/PokeBot/releases/latest">Total: <img src="https://img.shields.io/github/downloads/akbaryahya/PokeBot/total.svg"/> Last: <img src="https://img.shields.io/github/downloads/akbaryahya/PokeBot/latest/total.svg"/></a> <a href="https://github.com/akbaryahya/PokeBot/issues"><img src="https://img.shields.io/github/issues/akbaryahya/PokeBot.svg"/> <img src="https://img.shields.io/github/issues-closed-raw/akbaryahya/PokeBot.svg"/></a>
 </p>
 
 Status API:
 -------------
-API bot work! (unstable+no safe)
+API bot work! (safe)
 - API POGO: 0.57.2
 - POGO APP: 0.57.2
 
-Note: PlayerUpdate not work anymore, so snipe and spin pokestop not work, we will try to figure out how to make it work again
+Note: PlayerUpdate not work anymore, so snipe not work, we will try to figure out how to make it work again!!!
 
 How to start?
 -------------------
@@ -27,7 +27,7 @@ Features
  - Security
  - Simple GUI with stats
  - Solve Captcha Manual / Auto by 2Captcha (Pay API)
- - Support API 0.45.0 (free) / 0.55.0 (Pay API)
+ - Support API 0.45.0 (free) / 0.57.2 (Pay API)
  - Gym Attack or just Farming
  - Auto Farming Pokestops/Pokemon
  - Auto Evolve/Rename/Transfer (with dont transfer favorit pokemon)
