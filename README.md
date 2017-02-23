@@ -12,8 +12,6 @@ API bot work! (safe)
 - API POGO: 0.57.2
 - POGO APP: 0.57.2
 
-Note: PlayerUpdate not work anymore, so snipe not work, we will try to figure out how to make it work again!!!
-
 How to start?
 -------------------
 [Please click here to read our Wiki](https://github.com/akbaryahya/PokeBOT/wiki)
