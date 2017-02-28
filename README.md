@@ -45,7 +45,7 @@ Features
  - Expor data list pokemon
  - Teleport Pokestop/New Locate/Pokemon (Snipe)
  - Edit devices info (ios/android)
- - JSON save config (soon)
+ - JSON save config
  - Multi account random (soon)
  - Set min iv/cp/lv catch pokemon
  - Archimedean Spiral
