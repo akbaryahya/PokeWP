@@ -1,3 +1,4 @@
+32.800294, 130.729678 | Event Snorlax
 37.511368,127.098140 | 10 Lure PokeStop
 25.068496, 121.528165 | Best Teleport Pokestop And Test Attack Gym
 38.55680748646112,-121.2383794784546 | Dratini Spot
