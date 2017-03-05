@@ -10,7 +10,7 @@ Status API:
 -------------
 API bot work! (safe)
 - API POGO: 0.57.2
-- POGO APP: 0.57.3
+- POGO APP: 0.57.4
 
 How to start?
 -------------------
@@ -25,7 +25,7 @@ Features
  - Security
  - Simple GUI with stats
  - Solve Captcha Manual / Auto by 2Captcha (Pay API)
- - Support API 0.45.0 (free) / 0.57.2 (Pay API)
+ - Support API 0.45.0 (free) / 0.57.3 (Pay API)
  - Gym Attack or just Farming
  - Auto Farming Pokestops/Pokemon
  - Auto Evolve/Rename/Transfer (with dont transfer favorit pokemon)
