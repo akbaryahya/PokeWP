@@ -25,10 +25,11 @@ Features
  - Security
  - Simple GUI with stats
  - Solve Captcha Manual / Auto by 2Captcha (Pay API)
- - Support API 0.45.0 (free) / 0.57.3 (Pay API)
+ - Support API 0.45.0 (free) / 0.57.4 (Pay API)
  - Gym Attack or just Farming
  - Auto Farming Pokestops/Pokemon
  - Auto Evolve/Rename/Transfer (with dont transfer favorit pokemon)
+ - Catch pokemon lure/incense
  - Incubate Eggs
  - PowerUp/Evolve/Rename/Favorit/Buddy/Team Pokemons in GUI (support multi select)
  - Livemap/Scanner with Pokestop/GYM/Pokemon information on it.
@@ -40,8 +41,8 @@ Features
  - Bot Telegram
  - Bot Twitter (Example: https://twitter.com/PokeLocatez)
  - Bot Discord (soon)
- - Manage Items/Pokemon/Eggs
- - Batch Snipe
+ - Manage Items/Store/Pokemon/Eggs
+ - Batch Snipe (soon)
  - Expor data list pokemon
  - Teleport Pokestop/New Locate/Pokemon (Snipe)
  - Edit devices info (ios/android)
