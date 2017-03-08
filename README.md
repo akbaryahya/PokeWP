@@ -8,9 +8,13 @@
 
 Status API:
 -------------
-API bot work! (safe)
+API bot work! (no-safe)
 - API POGO: 0.57.4
 - POGO APP: 0.57.4
+
+Note: 
+well I got it in some my accounts (SessionInvalidated,Sessionoutdated), I do not know where the problem is located
+but on pogodev people talking about new url login so that some accounts are not working, This is also problem even you using pokehash (new api) not just old api if you use high level we recommend not using it at this time!!!
 
 How to start?
 -------------------
