@@ -8,13 +8,25 @@
 
 Status API:
 -------------
-API bot work! (no-safe)
+API bot work! (safe)
 - API POGO: 0.57.4
 - POGO APP: 0.57.4
 
 Note: 
-well I got it in some my accounts (SessionInvalidated,Sessionoutdated), I do not know where the problem is located
-but on pogodev people talking about new url login so that some accounts are not working, This is also problem even you using pokehash (new api) not just old api if you use high level we recommend not using it at this time!!!
+About (SessionInvalidated,Sessionoutdated) ->
+
+if use old api (45.0)
+
+stop now, because now api 45.0 ded, Well I know somebody can successfully log-in but after a few minutes you will get captcha and error like (SessionInvalidated) because Niantic want you to force update to new api, make your token invalid!!!
+So how to get new api but free? no, but in next version (later) we will try to give you trial key to make sure our bot working good for you ;)
+
+if use new api (57.2+)
+
+make sure you token in tmp/username.json remove it and...
+wait 1 hour then start bot or restart bot 4x!
+if it does not work given to us log.txt!
+AND NEVER BACK USE API OLD (45.0) in any app, if you do not want to get banned alert!!!
+Why? in app pogo if you update pogo you can never back can use old app xD
 
 How to start?
 -------------------
