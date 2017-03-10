@@ -12,22 +12,6 @@ API bot work! (safe)
 - API POGO: 0.57.4
 - POGO APP: 0.57.4
 
-Note: 
-About (SessionInvalidated,Sessionoutdated) ->
-
-if use old api (45.0)
-
-stop now, because now api 45.0 ded, Well I know somebody can successfully log-in but after a few minutes you will get captcha and error like (SessionInvalidated) because Niantic want you to force update to new api, make your token invalid!!!
-So how to get new api but free? no, but in next version (later) we will try to give you trial key to make sure our bot working good for you ;)
-
-if use new api (57.2+)
-
-make sure you token in tmp/username.json remove it and...
-wait 1 hour then start bot or restart bot 4x!
-if it does not work given to us log.txt!
-AND NEVER BACK USE API OLD (45.0) in any app, if you do not want to get banned alert!!!
-Why? in app pogo if you update pogo you can never back can use old app xD
-
 How to start?
 -------------------
 [Please click here to read our Wiki](https://github.com/akbaryahya/PokeBOT/wiki)
@@ -41,7 +25,7 @@ Features
  - Security
  - Simple GUI with stats
  - Solve Captcha Manual / Auto by 2Captcha (Pay API)
- - Support API 0.45.0 (free) / 0.57.4 (Pay API)
+ - Support API 0.57.4 (free trial)
  - Gym Attack or just Farming
  - Auto Farming Pokestops/Pokemon
  - Auto Evolve/Rename/Transfer (with dont transfer favorit pokemon)
