@@ -38,9 +38,8 @@ Features
  - Random Throws (Curved, nice..)
  - Real Animation waiting time..
  - Google Routing
- - Bot Telegram
- - Bot Twitter (Example: https://twitter.com/PokeLocatez)
- - Bot Discord (soon)
+ - Bot Telegram,Discord,Twitter (Example: https://twitter.com/PokeLocatez)
+ - Bot Facebook,Chat Youtube (soon)
  - Manage Items/Store/Pokemon/Eggs
  - Batch Snipe (soon)
  - Expor data list pokemon
