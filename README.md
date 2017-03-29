@@ -10,7 +10,7 @@ Status API:
 -------------
 API bot work! (safe)
 - API POGO: 0.57.4
-- POGO APP: 0.59.1
+- POGO APP: 0.59.2
 
 How to start?
 -------------------
@@ -38,8 +38,8 @@ Features
  - Random Throws (Curved, nice..)
  - Real Animation waiting time..
  - Google Routing
- - Bot Telegram,Discord,Twitter (Example: https://twitter.com/PokeLocatez)
- - Bot Facebook,Chat Youtube (soon)
+ - Bot Telegram,Discord,Twitter,Chat Youtube (Example: https://twitter.com/PokeLocatez)
+ - Bot Facebook (soon)
  - Manage Items/Store/Pokemon/Eggs
  - Batch Snipe (soon)
  - Expor data list pokemon
