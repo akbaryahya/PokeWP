@@ -1,7 +1,0 @@
-32.516305, 130.586952 | Snorlax Spot
-37.511368,127.098140 | 10 Lure PokeStop
-25.068496, 121.528165 | Best Teleport Pokestop And Test Attack Gym
-38.55680748646112,-121.2383794784546 | Dratini Spot
--33.85901900, 151.21309800 | Magikarp Spot
-47.5014969, -122.0959568 | Eevee Spot
-51.5025343,-0.2055027 | Charmender Spot
