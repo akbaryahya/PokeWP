@@ -9,7 +9,7 @@
 Status API:
 -------------
 API bot work! (safe)
-- API POGO: 0.59.1
+- API POGO: 0.59.0
 - POGO APP: 0.61.0
 
 How to start?
