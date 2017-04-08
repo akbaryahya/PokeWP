@@ -2,14 +2,13 @@
   "status": "safe",
   "hash": {
     "uk8": "",
-    "uk25": "",
-    "router": "",
-    "hashv": ""
+    "uk25": "3226782243204485589",
+    "router": "api/v129_1/hash"
   },
   "ver": {
-      "ingame": "0.60.0",
+      "ingame": "0.61.0",
       "inapi": "0.59.0",
-      "inbotbeta": "0.59.0",
+      "inbotbeta": "0.59.1",
       "inbot": "0.57.0"
     },
     "bestlocate": {
