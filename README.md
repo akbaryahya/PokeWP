@@ -25,7 +25,7 @@ Features
  - Security
  - Simple GUI with stats
  - Solve Captcha Manual / Auto by 2Captcha (paid)
- - Support API 0.60.0 (free/paid)
+ - Support API 0.61.0 (free/paid)
  - Gym Attack or just Farming
  - Auto Farming Pokestops/Pokemon
  - Auto Evolve/Rename/Transfer (with dont transfer favorit pokemon)
