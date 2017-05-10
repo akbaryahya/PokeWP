@@ -1,9 +1,9 @@
-# PokeBOT <a href="https://github.com/akbaryahya/PokeBot/releases/latest"><img src="https://img.shields.io/github/release/akbaryahya/PokeBot.svg"/></a>
+# PokeWP <a href="https://github.com/akbaryahya/PokeWP/releases/latest"><img src="https://img.shields.io/github/release/akbaryahya/PokeWP.svg"/></a>
 
 <p align="center">
   Pokemon Go Bot PC based on PokemonGo-Bot
-  <img src="https://i.imgur.com/c0fRJa3.jpg" alt="POKEBOT"/>
-  <a href="https://github.com/akbaryahya/PokeBot/releases/latest">Total: <img src="https://img.shields.io/github/downloads/akbaryahya/PokeBot/total.svg"/> Last: <img src="https://img.shields.io/github/downloads/akbaryahya/PokeBot/latest/total.svg"/></a> <a href="https://github.com/akbaryahya/PokeBot/issues"><img src="https://img.shields.io/github/issues/akbaryahya/PokeBot.svg"/> <img src="https://img.shields.io/github/issues-closed-raw/akbaryahya/PokeBot.svg"/></a>
+  <img src="https://i.imgur.com/c0fRJa3.jpg" alt="PokeWP"/>
+  <a href="https://github.com/akbaryahya/PokeWP/releases/latest">Total: <img src="https://img.shields.io/github/downloads/akbaryahya/PokeWP/total.svg"/> Last: <img src="https://img.shields.io/github/downloads/akbaryahya/PokeWP/latest/total.svg"/></a> <a href="https://github.com/akbaryahya/PokeWP/issues"><img src="https://img.shields.io/github/issues/akbaryahya/PokeWP.svg"/> <img src="https://img.shields.io/github/issues-closed-raw/akbaryahya/PokeWP.svg"/></a>
 </p>
 
 Status API:
@@ -14,11 +14,11 @@ API bot work! (safe)
 
 How to start?
 -------------------
-[Please click here to read our Wiki](https://github.com/akbaryahya/PokeBOT/wiki)
+[Please click here to read our Wiki](https://github.com/akbaryahya/PokeWP/wiki)
 
 Community:
 -------------------
-[Facebook Group](https://www.facebook.com/groups/PokemonGoPC/) ~ [GitHub](https://github.com/akbaryahya/PokeBot/issues) ~ [Discord](https://discord.gg/WshddzK)
+[Facebook Group](https://www.facebook.com/groups/PokemonGoPC/) ~ [GitHub](https://github.com/akbaryahya/PokeWP/issues) ~ [Discord](https://discord.gg/43FBg2z)
 
 Features
 -------------
@@ -65,8 +65,7 @@ This Bot is in no way affiliated with, authorized, maintained, sponsored or endo
 Credits to:
 -------------------
  - Ar1i (Base Bot)
- - Furtif,samuraitruong,AeonLucid,PokeFarmer (API C#)
- - Siakbary (DBPoke,Logic)
+ - AeonLucid (API C#)
  - MTK4355,Xelwon (Additional features on base bot)
  - IgnaceMaes (Skin C#)
  - MrNinja,Pokehunt (ideas solve captcha)
