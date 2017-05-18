@@ -2,14 +2,14 @@
   "status": "safe",
   "hash": {
     "uk8": "",
-    "uk25": "0x11fdf018c941ef22",
-    "router": "api/v131_0/hash"
+    "uk25": "0x4A3889A251CCAD52",
+    "router": "api/v133_1/hash"
   },
   "ver": {
-      "ingame": "0.61.0",
-      "inapi": "0.61.0",
-      "inbotbeta": "0.61.0",
-      "inbot": "0.57.0"
+      "ingame": "0.63.1",
+      "inapi": "0.63.1",
+      "inbotbeta": "0.63.1",
+      "inbot": "0.63.1"
     },
     "bestlocate": {
       "Snorlax Spot": "32.516305, 130.586952",
