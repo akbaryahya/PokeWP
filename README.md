@@ -8,7 +8,7 @@
 
 Status API:
 -------------
-API bot work! (safe)
+# NO UPDATE UNTIL POKEMON GO MADE ME INTERESTED TO GO BACK AGAIN, BYE BYE
 - API POGO: 0.63.1
 - POGO APP: 0.63.1
 
