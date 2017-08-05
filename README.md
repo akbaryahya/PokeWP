@@ -2,8 +2,8 @@
 
 <p align="center">
   Pokemon Go Bot PC based on PokemonGo-Bot
-  <img src="https://github.com/akbaryahya/PokeWP/raw/master/bot.jpg" alt="PokeWP"/>
-  <a href="https://github.com/akbaryahya/PokeWP/releases/latest">Total: <img src="https://img.shields.io/github/downloads/akbaryahya/PokeWP/total.svg"/> Last: <img src="https://img.shields.io/github/downloads/akbaryahya/PokeWP/latest/total.svg"/></a> <a href="https://github.com/akbaryahya/PokeWP/issues"><img src="https://img.shields.io/github/issues/akbaryahya/PokeWP.svg"/> <img src="https://img.shields.io/github/issues-closed-raw/akbaryahya/PokeWP.svg"/></a>
+  <a href="https://github.com/akbaryahya/PokeWP/releases/latest"><img src="https://github.com/akbaryahya/PokeWP/raw/master/bot.jpg" alt="PokeWP"/>
+  Total: <img src="https://img.shields.io/github/downloads/akbaryahya/PokeWP/total.svg"/> Last: <img src="https://img.shields.io/github/downloads/akbaryahya/PokeWP/latest/total.svg"/></a> <a href="https://github.com/akbaryahya/PokeWP/issues"><img src="https://img.shields.io/github/issues/akbaryahya/PokeWP.svg"/> <img src="https://img.shields.io/github/issues-closed-raw/akbaryahya/PokeWP.svg"/></a>
 </p>
 
 Status API: Unstable
