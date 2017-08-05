@@ -2,15 +2,14 @@
 
 <p align="center">
   Pokemon Go Bot PC based on PokemonGo-Bot
-  <img src="https://i.imgur.com/c0fRJa3.jpg" alt="PokeWP"/>
+  <img src="https://github.com/akbaryahya/PokeWP/raw/master/bot" alt="PokeWP"/>
   <a href="https://github.com/akbaryahya/PokeWP/releases/latest">Total: <img src="https://img.shields.io/github/downloads/akbaryahya/PokeWP/total.svg"/> Last: <img src="https://img.shields.io/github/downloads/akbaryahya/PokeWP/latest/total.svg"/></a> <a href="https://github.com/akbaryahya/PokeWP/issues"><img src="https://img.shields.io/github/issues/akbaryahya/PokeWP.svg"/> <img src="https://img.shields.io/github/issues-closed-raw/akbaryahya/PokeWP.svg"/></a>
 </p>
 
-Status API:
+Status API: Unstable
 -------------
-# NO UPDATE UNTIL POKEMON GO MADE ME INTERESTED TO GO BACK AGAIN, BYE BYE
-- API POGO: 0.63.1
-- POGO APP: 0.63.1
+- API POGO: 0.69.1
+- POGO APP: 0.69.1
 
 How to start?
 -------------------
@@ -25,7 +24,7 @@ Features
  - Security
  - Simple GUI with stats
  - Solve Captcha Manual / Auto by 2Captcha (paid)
- - Support API 0.63.1 (free/paid)
+ - Support API 0.69.1 (free/paid)
  - Gym Attack or just Farming
  - Auto Farming Pokestops/Pokemon
  - Auto Evolve/Rename/Transfer (with dont transfer favorit pokemon)
@@ -33,7 +32,7 @@ Features
  - Incubate Eggs
  - PowerUp/Evolve/Rename/Favorit/Buddy/Team Pokemons in GUI (support multi select)
  - Livemap/Scanner with Pokestop/GYM/Pokemon information on it.
- - API MAP Third Party (DBPoke https://map.siakbary.my.id/)
+ - API MAP Third Party (https://tool.siakbary.my.id/p/pokemap.html)
  - Navigation Logic Unique
  - Random Throws (Curved, nice..)
  - Real Animation waiting time..
@@ -52,11 +51,12 @@ Features
  - Random Free Proxy IP
  - And much more...
 
+Note: Many features are missing in version 2.0, will be restored later
+
 Required:
 -------------------
- - NET 4.5.2+
+ - NET 4.7
  - Windows 7+
- - DirectX 11 (I do not know why need this)
  
 Rights / Legal:
 -------------------
