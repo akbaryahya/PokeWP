@@ -2,7 +2,7 @@
 
 <p align="center">
   Pokemon Go Bot PC based on PokemonGo-Bot
-  <a href="https://github.com/akbaryahya/PokeWP/releases/latest"><img src="https://github.com/akbaryahya/PokeWP/raw/master/bot.jpg" alt="PokeWP"/><br>
+  <a href="https://github.com/akbaryahya/PokeWP/wiki/Install-Update"><img src="https://github.com/akbaryahya/PokeWP/raw/master/bot.jpg" alt="PokeWP"/><br>
   Total: <img src="https://img.shields.io/github/downloads/akbaryahya/PokeWP/total.svg"/> Last: <img src="https://img.shields.io/github/downloads/akbaryahya/PokeWP/latest/total.svg"/></a> <a href="https://github.com/akbaryahya/PokeWP/issues"><img src="https://img.shields.io/github/issues/akbaryahya/PokeWP.svg"/> <img src="https://img.shields.io/github/issues-closed-raw/akbaryahya/PokeWP.svg"/></a>
 </p>
 
@@ -13,7 +13,7 @@ Status API: Unstable
 
 How to start?
 -------------------
-[Please click here to read our Wiki](https://github.com/akbaryahya/PokeWP/wiki)
+[Please click here to read our Wiki](https://github.com/akbaryahya/PokeWP/wiki/Install-Update)
 
 Community:
 -------------------
