@@ -6,7 +6,7 @@
   Total: <img src="https://img.shields.io/github/downloads/akbaryahya/PokeWP/total.svg"/> Last: <img src="https://img.shields.io/github/downloads/akbaryahya/PokeWP/latest/total.svg"/></a> <a href="https://github.com/akbaryahya/PokeWP/issues"><img src="https://img.shields.io/github/issues/akbaryahya/PokeWP.svg"/> <img src="https://img.shields.io/github/issues-closed-raw/akbaryahya/PokeWP.svg"/></a>
 </p>
 
-Status API: BAD
+Status API: GOOD
 -------------
 - API POGO: 0.69.1
 - POGO APP: 0.71.0
