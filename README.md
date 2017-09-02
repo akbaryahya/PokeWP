@@ -9,7 +9,7 @@
 Status API: GOOD
 -------------
 - API POGO: 0.69.1
-- POGO APP: 0.71.0
+- POGO APP: 0.71.3
 
 How to start?
 -------------------
