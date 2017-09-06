@@ -8,6 +8,7 @@
 
 Status API: GOOD
 -------------
+- API BOT: 0.71.3 (not full)
 - API POGO: 0.71.3
 - POGO APP: 0.71.3
 
@@ -24,12 +25,9 @@ Features
  - Security
  - Simple GUI with stats
  - Solve Captcha Manual / Auto by 2Captcha (paid)
- - Support API 0.69.1 (free/paid)
- - Gym Attack or just Farming
- - Auto Farming Pokestops/Pokemon
- - Auto Evolve/Rename/Transfer (with dont transfer favorit pokemon)
- - Catch pokemon lure/incense
- - Incubate Eggs
+ - Gym Attack or just Farming coin
+ - Auto Evolve/Rename/Transfer/Incubate Eggs/Farming Pokestops,Pokemon
+ - Catch Pokemon Lure/Incense/Nearby
  - PowerUp/Evolve/Rename/Favorit/Buddy/Team Pokemons in GUI (support multi select)
  - Livemap/Scanner with Pokestop/GYM/Pokemon information on it.
  - API MAP Third Party (https://tool.siakbary.my.id/p/pokemap.html)
@@ -37,8 +35,7 @@ Features
  - Random Throws (Curved, nice..)
  - Real Animation waiting time..
  - Google Routing
- - Bot Telegram,Discord,Twitter,Chat Youtube (Example: https://twitter.com/PokeLocatez)
- - Bot Facebook (soon)
+ - Bot Telegram,Discord,Twitter,Chat Youtube,Facebook (Example: https://twitter.com/PokeLocatez)
  - Manage Items/Store/Pokemon/Eggs
  - Batch Snipe (soon)
  - Expor data list pokemon
