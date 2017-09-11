@@ -8,7 +8,7 @@
 
 Status API: GOOD
 -------------
-- API BOT: 0.71.3 (not full)
+- API BOT: 0.71.3 (not full, wait AeonLucid update repo POGOProtos)
 - API POGO: 0.71.3
 - POGO APP: 0.71.3
 
@@ -48,7 +48,7 @@ Features
  - Random Free Proxy IP
  - And much more...
 
-Note: Many features are missing in version 2.0, will be restored later
+Note: Many features are missing in version 2.0, will be restored later!!!.
 
 Required:
 -------------------
