@@ -10,7 +10,7 @@ Status API: GOOD
 -------------
 - API BOT: 0.71.3 (not full, wait AeonLucid update repo POGOProtos)
 - API POGO: 0.71.3
-- POGO APP: 0.71.3
+- POGO APP: 0.75.0
 
 How to start?
 -------------------
