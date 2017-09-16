@@ -18,7 +18,7 @@ How to start?
 
 Community:
 -------------------
-[Facebook Group](https://www.facebook.com/groups/PokemonGoPC/) ~ [GitHub](https://github.com/akbaryahya/PokeWP/issues) ~ [Discord](https://discord.gg/43FBg2z)
+[Facebook Group](https://www.facebook.com/groups/PokemonGoPC/) ~ [GitHub](https://github.com/akbaryahya/PokeWP/issues) ~ [Discord](https://discord.gg/2vhjQCF)
 
 Features
 -------------
