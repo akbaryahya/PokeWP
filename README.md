@@ -8,8 +8,8 @@
 
 Status API: GOOD
 -------------
-- API BOT: 0.71.3 (not full, wait AeonLucid update repo POGOProtos)
-- API POGO: 0.71.3
+- API BOT: 0.75.0 (not full, wait pogodev team)
+- API POGO: 0.75.0
 - POGO APP: 0.75.0
 
 How to start?
@@ -39,7 +39,7 @@ Features
  - Manage Items/Store/Pokemon/Eggs
  - Batch Snipe (soon)
  - Expor data list pokemon
- - Teleport Pokestop/New Locate/Pokemon (Snipe)
+ - Teleport Pokestop/Pokemon (Snipe)
  - Edit devices info (ios/android)
  - JSON save config
  - Multi account random (soon)
