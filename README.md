@@ -8,9 +8,9 @@
 
 Status API: GOOD
 -------------
-- API BOT: 0.75.0 (not full, wait pogodev team)
-- API POGO: 0.75.0
-- POGO APP: 0.75.0
+- API BOT: 0.75.1 (not full, about uk27, wait pogodev team)
+- API POGO: 0.75.1
+- POGO APP: 0.75.1
 
 How to start?
 -------------------
