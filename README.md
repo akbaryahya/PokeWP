@@ -6,10 +6,10 @@
   Total: <img src="https://img.shields.io/github/downloads/akbaryahya/PokeWP/total.svg"/> Last: <img src="https://img.shields.io/github/downloads/akbaryahya/PokeWP/latest/total.svg"/></a> <a href="https://github.com/akbaryahya/PokeWP/issues"><img src="https://img.shields.io/github/issues/akbaryahya/PokeWP.svg"/> <img src="https://img.shields.io/github/issues-closed-raw/akbaryahya/PokeWP.svg"/></a>
 </p>
 
-Status API: Unstable (SB COME BACK) (I'm sick, so I'm gonna rarely update (unless there's a force update)) 
+Status API: Unstable (SB COME BACK) (I'm sick, so I'm gonna rarely update (unless there's a force update)
 -------------
-- API BOT: 0.75.1 (not full, about uk27, wait pogodev team)
-- API POGO: 0.75.1
+- API BOT: 0.77.1 (not full, about uk27, wait pogodev team)
+- API POGO: 0.77.1
 - POGO APP: 0.77.1 
 
 How to start?
@@ -24,31 +24,32 @@ Features
 -------------
  - Security
  - Simple GUI with stats
- - Solve Captcha Manual / Auto by 2Captcha (paid)
- - Gym Attack or just Farming coin
+ - Solve Captcha Manual / Auto by 2Captcha **
+ - Gym/Raid Attack auto or just Farming Coin **
  - Auto Evolve/Rename/Transfer/Incubate Eggs/Farming Pokestops,Pokemon
  - Catch Pokemon Lure/Incense/Nearby
  - PowerUp/Evolve/Rename/Favorit/Buddy/Team Pokemons in GUI (support multi select)
- - Livemap/Scanner with Pokestop/GYM/Pokemon information on it.
- - API MAP Third Party (https://tool.siakbary.my.id/p/pokemap.html)
+ - Livemap/Scanner with Pokestop/GYM/Pokemon information on it. **
+ - API MAP Third Party & List Snipe (https://tool.siakbary.my.id/p/pokemap.html) **
  - Navigation Logic Unique
  - Random Throws (Curved, nice..)
  - Real Animation waiting time..
- - Google Routing
- - Bot Telegram,Discord,Twitter,Chat Youtube,Facebook (Example: https://twitter.com/PokeLocatez)
- - Manage Items/Store/Pokemon/Eggs
- - Batch Snipe (soon)
- - Expor data list pokemon
- - Teleport Pokestop/Pokemon (Snipe)
+ - Google Routing **
+ - Bot ** Telegram,Discord,Twitter,Chat Youtube,** Facebook (Example: https://twitter.com/PokeLocatez)
+ - Manage Items/** Store/Pokemon/Eggs
+ - Expor data list pokemon **
+ - Teleport Pokestop/Snipe Pokemon
  - Edit devices info (ios/android)
  - JSON save config
- - Multi account random (soon)
+ - Multi Account Random **
  - Set min iv/cp/lv catch pokemon
  - Archimedean Spiral
- - Random Free Proxy IP
- - And much more...
+ - Random Free Proxy IP **
+ - And much more... **
 
-Note: Many features are missing in version 2.0, will be restored later!!!.
+Note: 
+-------------------
+** Many features are missing in version 2.0, will be restored later!!!.
 
 Required:
 -------------------
@@ -64,5 +65,4 @@ Credits to:
  - Ar1i (Base Bot)
  - AeonLucid (API C#)
  - MTK4355,Xelwon (Additional features on base bot)
- - IgnaceMaes (Skin C#)
- - MrNinja,Pokehunt (ideas solve captcha)
+ - MrNinja,PokeHunt (ideas solve captcha)
