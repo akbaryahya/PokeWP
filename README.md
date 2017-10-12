@@ -6,7 +6,7 @@
   Total: <img src="https://img.shields.io/github/downloads/akbaryahya/PokeWP/total.svg"/> Last: <img src="https://img.shields.io/github/downloads/akbaryahya/PokeWP/latest/total.svg"/></a> <a href="https://github.com/akbaryahya/PokeWP/issues"><img src="https://img.shields.io/github/issues/akbaryahya/PokeWP.svg"/> <img src="https://img.shields.io/github/issues-closed-raw/akbaryahya/PokeWP.svg"/></a>
 </p>
 
-Status API: GOOD
+Status API: Unstable (SB COME BACK) (I'm sick, so I'm gonna rarely update (unless there's a force update)) 
 -------------
 - API BOT: 0.75.1 (not full, about uk27, wait pogodev team)
 - API POGO: 0.75.1
