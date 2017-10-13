@@ -6,11 +6,11 @@
   Total: <img src="https://img.shields.io/github/downloads/akbaryahya/PokeWP/total.svg"/> Last: <img src="https://img.shields.io/github/downloads/akbaryahya/PokeWP/latest/total.svg"/></a> <a href="https://github.com/akbaryahya/PokeWP/issues"><img src="https://img.shields.io/github/issues/akbaryahya/PokeWP.svg"/> <img src="https://img.shields.io/github/issues-closed-raw/akbaryahya/PokeWP.svg"/></a>
 </p>
 
-Status API: Unstable (SB COME BACK) (I'm sick, so I'm gonna rarely update (unless there's a force update)
+Status API: Stable 70%
 -------------
-- API BOT: 0.77.1 (not full, about uk27, wait pogodev team)
+- API BOT: 0.77.1
 - API POGO: 0.77.1
-- POGO APP: 0.77.1 
+- POGO APP: 0.77.1
 
 How to start?
 -------------------
@@ -63,6 +63,6 @@ This Bot is in no way affiliated with, authorized, maintained, sponsored or endo
 Credits to:
 -------------------
  - Ar1i (Base Bot)
- - AeonLucid (API C#)
+ - AeonLucid,Furtif (API C#)
  - MTK4355,Xelwon (Additional features on base bot)
  - MrNinja,PokeHunt (ideas solve captcha)
