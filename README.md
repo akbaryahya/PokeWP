@@ -8,8 +8,8 @@
 
 Status API: Stable 70%
 -------------
-- API BOT: 0.77.1
-- API POGO: 0.77.1
+- API BOT: 0.79.3
+- API POGO: 0.79.3
 - POGO APP: 0.79.3
 
 How to start?
