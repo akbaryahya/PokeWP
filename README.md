@@ -6,7 +6,7 @@
   Total: <img src="https://img.shields.io/github/downloads/akbaryahya/PokeWP/total.svg"/> Last: <img src="https://img.shields.io/github/downloads/akbaryahya/PokeWP/latest/total.svg"/></a> <a href="https://github.com/akbaryahya/PokeWP/issues"><img src="https://img.shields.io/github/issues/akbaryahya/PokeWP.svg"/> <img src="https://img.shields.io/github/issues-closed-raw/akbaryahya/PokeWP.svg"/></a>
 </p>
 
-Status API: Stable 70%
+Status API: Stable 50% (currently there is NO SAFE BOTS, you will be banned after 2 weeks, use at your own risk)
 -------------
 - API BOT: 0.79.3
 - API POGO: 0.79.3
