@@ -8,9 +8,9 @@
 
 Status API: Stable 50% (currently there is NO SAFE BOTS, you will be banned after 2 weeks, use at your own risk)
 -------------
-- API BOT: 0.79.3
-- API POGO: 0.79.3
-- POGO APP: 0.79.3
+- API BOT: 0.79.4
+- API POGO: 0.79.4
+- POGO APP: 0.79.4
 
 How to start?
 -------------------
