@@ -6,11 +6,11 @@
   Total: <img src="https://img.shields.io/github/downloads/akbaryahya/PokeWP/total.svg"/> Last: <img src="https://img.shields.io/github/downloads/akbaryahya/PokeWP/latest/total.svg"/></a> <a href="https://github.com/akbaryahya/PokeWP/issues"><img src="https://img.shields.io/github/issues/akbaryahya/PokeWP.svg"/> <img src="https://img.shields.io/github/issues-closed-raw/akbaryahya/PokeWP.svg"/></a>
 </p>
 
-Status API: Stable 50% (currently there is NO SAFE BOTS, you will be banned after 2 weeks, use at your own risk)
+Status API: Stable 90%
 -------------
-- API BOT: 0.79.4
-- API POGO: 0.79.4
-- POGO APP: 0.79.4
+- API BOT: 0.87.5
+- API POGO: 0.87.5
+- POGO APP: 0.87.5
 
 How to start?
 -------------------
@@ -53,7 +53,7 @@ Note:
 
 Required:
 -------------------
- - NET 4.7
+ - .NET Framework 4.6.2
  - Windows 7+
  
 Rights / Legal:
